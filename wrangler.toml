@@ -1,0 +1,8 @@
+name = "cdn"
+type = "javascript"
+
+compatibility_date = "2024-07-01"
+
+[[kv_namespaces]]
+binding = "trees"
+id = "0bb436c75674451b94a295e1a7be8daf" 
